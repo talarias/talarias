@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @talarias
 - 👀 I’m interested in ...
-  - Python, Plone, Volto
-  - React, Next.js
-  - ProgressiveWebApp, 
 - 🌱 I’m currently learning ...
 
 <h3>Things I code with</h3>
