@@ -14,7 +14,8 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Plone" src="https://img.shields.io/badge/-Plone-45b8d8?style=flat-square&logo=Plone&logoColor=blue" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" />  
+  <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" />    
+  <img alt="PyPi" src="https://img.shields.io/badge/-pypi-CB3837?style=flat-square&logo=pypi&logoColor=white" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-Next-F05032?style=flat-square&logo=next.js&logoColor=white" />  
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-8DD6F9?style=flat-square&logo=Javascript&logoColor=white" />
 </p>
